@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/saurav190/musicapp/static/css/main.72448599.css",
-    "main.js": "/saurav190/musicapp/static/js/main.53dcc021.js",
+    "main.js": "/saurav190/musicapp/static/js/main.4279b878.js",
     "static/media/login.jpg": "/saurav190/musicapp/static/media/login.ff3cb895e76ed60f5386.jpg",
     "static/media/slick.svg": "/saurav190/musicapp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/saurav190/musicapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,10 +9,10 @@
     "static/media/slick.woff": "/saurav190/musicapp/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/saurav190/musicapp/index.html",
     "main.72448599.css.map": "/saurav190/musicapp/static/css/main.72448599.css.map",
-    "main.53dcc021.js.map": "/saurav190/musicapp/static/js/main.53dcc021.js.map"
+    "main.4279b878.js.map": "/saurav190/musicapp/static/js/main.4279b878.js.map"
   },
   "entrypoints": [
     "static/css/main.72448599.css",
-    "static/js/main.53dcc021.js"
+    "static/js/main.4279b878.js"
   ]
 }
